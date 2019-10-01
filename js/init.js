@@ -78,6 +78,8 @@ var initScripts = {
 $('document').ready(function () {
 
     initScripts.init();
+    
+    new WOW().init();
 
     $('#main-slider').flexslider({
         namespace: "flex-",
