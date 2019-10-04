@@ -1,6 +1,6 @@
 var initScripts = {
     adaptation: function () {
-        var portfolio = $('#portfolio');
+        var portfolio = $('#school');
         var items = $('.items', portfolio);
         var filters = $('.filters li a', portfolio);
 
