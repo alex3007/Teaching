@@ -18,11 +18,11 @@ $('document').ready(function () {
     });
 
     //owlSlider
-    $("#owl-demo").owlCarousel();
+    // $("#owl-demo").owlCarousel();
 
     //wow
     new WOW().init();
-    
+
     //flexSlider
     $('#main-slider').flexslider({
         namespace: "flex-",
