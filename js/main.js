@@ -48,7 +48,7 @@ $('document').ready(function () {
         video: false,
 
         // Primary Controls
-        controlNav: true,
+        controlNav: false,
         directionNav: true,
         prevText: "Previous",
         nextText: "Next",
